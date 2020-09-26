@@ -39,6 +39,13 @@ Por mientras dejo una lista de los programas que utilizaba y ahora utilizo.🤓
 * Tratar de compreder este maravilloso mundillo de GNU/Linux 🤔
 * Leer artículos interesantes en Internet referente al mundo tecnología
 
+</br>
+
+![enter image description here](https://github.com/RodolfoZamora999/RodolfoZamora999/blob/master/banner.png)
+
+
+
+
 <!--
 **RodolfoZamora999/RodolfoZamora999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
